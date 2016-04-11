@@ -1,3 +1,4 @@
+
 body{
 	background-color:gold;
 }
@@ -11,5 +12,10 @@ h3{color:silver;
 }
 p{color:#b87333;
 }
+table, th, td { background-color:grey;
+border:2px solid black;
+}
 aside{color:tin;
+}
+th{text-transform:uppercase;
 }

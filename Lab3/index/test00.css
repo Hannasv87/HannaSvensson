@@ -1,0 +1,90 @@
+body
+
+fieldset.page
+{
+	width:200px;
+	float:left;
+	padding:20px;
+	margin:2px;
+	
+	
+}
+
+
+ input:hover
+ {
+color:red;
+background-color:grey;
+}
+/*kvitto*/
+
+
+th,td.five
+{
+background-color:lightgrey;
+width:400px;
+height:50px;
+text-align:center;
+}
+h1.orders
+{text-align:center;
+}
+p
+{
+	text-align:center;
+}
+p.order:first-letter
+{
+	color:blue;
+	font-size:200%;
+	
+}
+p.order:first-line
+{color:brown;}
+
+/*kundkorg kassa*/
+
+td.ten
+{ background-color:white;
+border:1px solid black;
+height:200px;
+width:200px;
+border-radius:10px;
+text-align:center;
+
+}
+
+
+input{
+	font-size:150%;
+	
+	}
+
+img{
+	width:150px;
+    height:150px;
+}
+
+fieldset
+{
+	
+	text-align:center;
+}
+p
+{
+	text-align:center;
+}
+h1
+{
+	text-align:center;
+}
+form
+{
+	text-align:center;
+}
+footer{
+	bottom:0;
+position:fixed;
+width:100%;
+text-align:left;
+padding:20px;}
