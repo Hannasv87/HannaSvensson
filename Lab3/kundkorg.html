@@ -27,11 +27,10 @@
      <td class="ten"><img src="images/levis.jpg"/></td>
 	 <td class="ten">Levis jeans</td>
 	 <td class="ten">38</td>
-	 <td class="ten"><input type="number" name="varor"/></td>
+	 <td class="ten"><input type="number" min="1" max="4"value="1" name="varor"/></td>
 	 <td class="ten">799 kr</td>
 	 <td class="ten">49 kr</td>
 	 <td class="ten">848 kr</td>
-	 <td class="ten"><input type="button" name="knapp" value="Betala"></td>
 	 
 </tr>
 </table>
@@ -47,44 +46,32 @@
          <input type="text" name="namn" required id="namn"/><br/>
 		 
 		  <label for="Efternamn">Efternamn</label><br/>
-		 <input type="text"
-		 name="Efternamn"
-		 required 
-		 id="Efternamn"/><br/>
+		 <input type="text" name="Efternamn" required id="Efternamn"/><br/>
 		 
 		 <label for="name">Adress</label><br/>
-         <input type="text"
-	     name="Adress"
-	     required
-	     id="Adress"/><br/>
+         <input type="text" name="Adress" required id="Adress"/><br/>
 		 
 		  
 		 
 		 <label for="name">Postnummer</label><br/>
-         <input type="text"
-	     name="postnummer"
-	     required
-	     id="postnummer"/><br/>
+         <input type="text"name="postnummer" required id="postnummer"/><br/>
 		 
-		  <label for="Efternamn">Ort</label><br/>
+		  
+		 <label for="Efternamn">Ort</label><br/>
 		  
 		 <input type="text"
-		 name="ort"
-		 required 
-		 id="ort"/><br/>
+		 name="ort" required id="ort"/><br/>
 		 
-		 
+</form>		 
 		 <label for="mail">Mail</label><br/>
-		 
-		 <input type="text" 
-		 name="mail"
-		 required="required"
-		 id="mail"/><br/>
-		 
-	      <input type="submit" value="Skicka">
+		 <form action="kvitto.html">
+		 <input type="text" name="mail" required="required" id="mail"/><br/>
+		 <input type="submit" value="Skicka">
 
 </fieldset>
 </form>
-<footer><p>&copy: Hanna Svensson</p></footer>
+<footer class="note">
+     </p>&copy: Hanna Svensson</p>
+</footer>
 </body>
 </html>
