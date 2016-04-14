@@ -1,2 +1,4 @@
 body
-input{background-color:#99ffdd;}
+input{background-color:#99ffdd;
+padding:20px;
+border-radius:10px;}
