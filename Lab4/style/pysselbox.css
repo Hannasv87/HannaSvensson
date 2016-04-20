@@ -30,9 +30,20 @@ ol{
     width:150px;
 	
 }
-#picture1{margin-left:120px;}
-#picture2{margin-left:80px;}
-#picture3{margin-left:-20px;} 
+h1:hover
+{
+	background-color:#99ffdd;
+	text-shadow:2px 2px 0px #000000;
+}
+#picture1{
+	margin-left:120px;
+	}
+#picture2{
+	margin-left:80px;
+	}
+#picture3{
+	margin-left:-20px;
+} 
 .five
 {
 background-color:#99ffdd;
