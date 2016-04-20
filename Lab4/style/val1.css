@@ -1,0 +1,58 @@
+body{
+	
+}
+header{
+	background-color:#bfbfbf;
+}
+ul{
+	text-align:center;
+	}
+li{
+	display:inline;
+	padding:7px;
+	}
+	a 
+{
+	color:white;
+	background-color:#4d4d4d;
+	padding:10px 5px 0px 5px;
+	text-decoration:none;
+
+}
+h1
+{
+	border:2px solid #99ffdd;
+	float:right;
+	padding:70px;
+	margin-top:-250px;
+}
+#korg{
+	float:right;
+	margin-top:50px;
+}
+#sök{
+	float:right;
+	margin-top:10px;
+	
+}
+#knapp22{
+   float:right;
+   margin-bottom:90px;
+   
+}
+#knapp33{margin-left:170px;
+}
+#ram{border:2px solid #99ffdd;
+width:300px;
+margin-left:120px;
+}
+
+#one{
+	float:right;
+}
+
+footer{
+	background-color:#bfbfbf;
+	width:100%;
+	height:60px;
+}
