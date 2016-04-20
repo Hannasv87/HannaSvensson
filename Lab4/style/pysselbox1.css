@@ -1,0 +1,123 @@
+body
+
+header
+{
+	background-color:#bfbfbf;
+}
+ol
+{
+	text-align:center;
+}
+li
+{
+    display:inline;
+    padding:7px;	
+}
+#korg
+{
+   float:right;
+    margin-left:90px;
+	margin-top:20px;
+    	
+}
+#sök
+{
+   float:right;
+   padding:10px; 
+}
+a
+{
+	color:white;
+	background-color:#4d4d4d;
+	padding:10px;
+}
+#one
+{ 
+float:right;
+margin-top:-20px;
+}
+
+#ten{
+	margin:0px 0px 0px 15px;
+}
+#bild1
+{
+	margin-left:180px;
+}
+#bild2
+{
+	margin-left:55px;
+	
+}
+#bild3
+{
+	margin-left:-40px;
+}
+#knapp1
+{
+	
+	padding:5px;
+	padding-left:80px;
+	padding-right:80px;
+	padding-bottom:13px;
+	padding-top:13px;
+	background-color:#595959;
+	color:#ff99cc;
+	font-size:150%;
+	border-radius:7px;
+	background-image:url("../images/kundkorg1.png");
+	background-repeat:no-repeat;
+	background-position:right;
+	border:2px solid #ff99cc;
+    margin-left:240px;
+}
+#knapp2
+{
+	
+	padding:5px;
+	padding-left:80px;
+	padding-right:80px;
+	padding-bottom:13px;
+	padding-top:13px;
+	background-color:#595959;
+	color:#ff99cc;
+	font-size:150%;
+	border-radius:7px;
+	background-image:url("../images/kundkorg1.png");
+	background-repeat:no-repeat;
+	background-position:right;
+	border:2px solid #ff99cc;
+	margin-left:110px;
+}
+#knapp3
+{
+	
+	padding:5px;
+	padding-left:80px;
+	padding-right:80px;
+	padding-bottom:13px;
+	padding-top:13px;
+	background-color:#595959;
+	color:#ff99cc;
+	font-size:150%;
+	border-radius:7px;
+	background-image:url("../images/kundkorg1.png");
+	background-repeat:no-repeat;
+	background-position:right;
+	border:2px solid #ff99cc;
+	margin-left:50px;
+}
+#text4{
+	margin-left:180px;
+}
+#text5{
+	margin-left:50px;
+}
+#text6{
+	margin-left:-40px;
+}
+footer
+{
+	background-color:#bfbfbf;
+	
+}

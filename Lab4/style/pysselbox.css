@@ -1,4 +1,80 @@
 body
-input{background-color:#99ffdd;
+{
+background-image:url("../images/pojke.png"), url("../images/pluppar.png"); 
+	background-repeat:no-repeat;	
+	background-position:105px,878px;
+	
+	
+}
+li{
+	display:inline;
+	padding:7px;
+	
+}
+ol{
+	text-align:center;
+}
+#sök
+{
+	float:right;
+	padding:0px 0px 0px 0px;
+	
+	
+}
+
+#korg
+{
+	float:right;
+    margin-left:90px;
+	margin-top:20px;
+    width:150px;
+	
+}
+#picture1{margin-left:120px;}
+#picture2{margin-left:80px;}
+#picture3{margin-left:-20px;} 
+.five
+{
+background-color:#99ffdd;
 padding:20px;
-border-radius:10px;}
+border-radius:10px;
+}
+
+header
+{
+	background-color:#bfbfbf;
+}
+	
+a 
+{
+	color:white;
+	background-color:#4d4d4d;
+	
+	padding:10px;
+
+	
+}
+
+#note 
+{
+	
+	text-align:center;
+     	
+	margin-bottom:150px;
+}
+
+footer
+{
+	background-color:#bfbfbf;
+
+}
+
+#one
+{ 
+float:right;
+margin-top:-10px;
+}
+
+#ten{
+	margin:0px 0px 0px 15px;
+}
