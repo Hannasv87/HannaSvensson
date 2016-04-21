@@ -4,7 +4,7 @@ header
 {
 	background-color:#bfbfbf;
 }
-ol
+ul
 {
 	text-align:center;
 }
@@ -16,25 +16,26 @@ li
 #korg
 {
    float:right;
-    margin-left:90px;
-	margin-top:20px;
+    margin-left:150px;
+	margin-top:15px;
     	
 }
 #sök
 {
    float:right;
-   padding:10px; 
+   padding:10px;   
 }
 a
 {
 	color:white;
 	background-color:#4d4d4d;
 	padding:10px;
+	text-decoration:none;
 }
 #one
 { 
 float:right;
-margin-top:-20px;
+
 }
 
 #ten{
@@ -42,7 +43,7 @@ margin-top:-20px;
 }
 #bild1
 {
-	margin-left:180px;
+	margin-left:0px;
 }
 #bild2
 {
@@ -51,7 +52,7 @@ margin-top:-20px;
 }
 #bild3
 {
-	margin-left:-40px;
+	margin-left:128px;
 }
 #knapp1
 {
@@ -69,7 +70,7 @@ margin-top:-20px;
 	background-repeat:no-repeat;
 	background-position:right;
 	border:2px solid #ff99cc;
-    margin-left:240px;
+    margin-left:50px;
 }
 #knapp2
 {
@@ -105,16 +106,16 @@ margin-top:-20px;
 	background-repeat:no-repeat;
 	background-position:right;
 	border:2px solid #ff99cc;
-	margin-left:50px;
+	margin-left:200px;
 }
 #text4{
-	margin-left:180px;
+	margin-left:20px;
 }
 #text5{
 	margin-left:50px;
 }
 #text6{
-	margin-left:-40px;
+	margin-left:100px;
 }
 footer
 {

@@ -19,12 +19,17 @@ a
 	text-decoration:none;
 
 }
-h1
+h2{
+	text-align:center;
+}
+aside
 {
 	border:2px solid #99ffdd;
 	float:right;
-	padding:70px;
-	margin-top:-250px;
+	padding:90px;
+	margin-top:-350px;
+	margin-right:200px;
+
 }
 #korg{
 	float:right;
@@ -37,24 +42,48 @@ h1
 }
 
 
-#knapp22{
-   float:right;
-   margin-bottom:90px;
-   
+#knapp33{
+	margin-left:20px;
+	background-color:#4d4d4d;
+	padding:10px;
+	border-radius:5px;
 }
-#knapp33{margin-left:170px;
+#box{background-color:#99ffdd;
+	padding:10px;
+	border-radius:5px;
 }
-#ram{border:2px solid #99ffdd;
+#ram{
+	border:2px solid #99ffdd;
 width:300px;
 margin-left:120px;
+margin-bottom:70px;
+padding:50px;
 }
 
 #one{
 	float:right;
 }
+#social{float:right;
+	margin-bottom:0px;
+}
 
 footer{
 	background-color:#bfbfbf;
 	width:100%;
-	height:60px;
+	height:100px;
+}
+/*formulär*/
+fieldset
+{
+	width:90px;
+	font-size:150%;
+	padding:50px;
+	margin-left:430px;
+	
+}
+/*orderbek*/
+article
+{
+	text-align:center;
+	
 }

@@ -2,7 +2,7 @@ body
 {
 background-image:url("../images/pojke.png"), url("../images/pluppar.png"); 
 	background-repeat:no-repeat;	
-	background-position:105px,878px;
+	background-position:70px,908px;
 	
 	
 }
@@ -11,23 +11,21 @@ li{
 	padding:7px;
 	
 }
-ol{
+ul{
 	text-align:center;
 }
 #sök
 {
 	float:right;
-	padding:0px 0px 0px 0px;
-	
-	
+
 }
 
 #korg
 {
 	float:right;
-    margin-left:90px;
-	margin-top:20px;
-    width:150px;
+    margin-left:150px;
+	margin-top:15px;
+   
 	
 }
 h1:hover
@@ -37,12 +35,15 @@ h1:hover
 }
 #picture1{
 	margin-left:120px;
+	margin-top:110px;
 	}
 #picture2{
 	margin-left:80px;
+	margin-top:110px;
 	}
 #picture3{
-	margin-left:-20px;
+	margin-left:-10px;
+	margin-top:100px;
 } 
 .five
 {
@@ -60,8 +61,8 @@ a
 {
 	color:white;
 	background-color:#4d4d4d;
-	
-	padding:10px;
+	text-decoration:none;
+	padding:10px 10px 1px 10px;
 
 	
 }
@@ -74,18 +75,19 @@ a
 	margin-bottom:150px;
 }
 
-footer
-{
-	background-color:#bfbfbf;
 
-}
 
 #one
 { 
 float:right;
-margin-top:-10px;
+margin-top:10px;
 }
 
 #ten{
 	margin:0px 0px 0px 15px;
+}
+footer
+{
+	background-color:#bfbfbf;
+
 }
