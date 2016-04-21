@@ -14,7 +14,7 @@
 		<div>
 			<img src="images/logo.png" alt="bild på logo" title="logo"/>
 			<img id="korg" src="images/korg.png" alt="bild på kundkorg" title="kundkorg"/>
-			<input id="sök" type="search" name="Sök" placeholder="Sök här"/><input id="sök" type="submit" value="Sök"/>
+			<input class="sok" type="search" name="Sök" placeholder="Sök här"/><input type="submit" value="Sök"/>
 		</div>	 
 		     <nav>
 				<ul>
@@ -28,15 +28,17 @@
 	
 	 </header>
 <fieldset>
+
     <legend>Kassa</legend>
+	<form action="orderbek.html">
 	     <label for="Namn">Namn:</label><br/><input type="text" name="Namn" required id="Namn"/><br/>
 	     <label for="Efternamn">Efternamn:</label><br/><input type="text" name="Efternamn" required id="Efternamn"><br/>
 	     <label for="Mobilnummer">Mobilnummer:</label><br/><input type="text" name="Mobilnummer" required id="Mobilnummer"><br/>
-	     <label for="email"> E-mail:</label><br/><input type="text" name="E-post" required="required" id="E-mail"><br/>
+	     <label for="E-mail"> email:</label><br/><input type="text" name="E-mail" required="required" id="E-mail"><br/>
 	    <label for="adress"> Adress:</label><br/><input type="text" name="adress" required="required" id="adress"><br/>
-		<label for="p"> Postnr:</label><br/><input type="text" name="postnr" required="required" id="postnr"><br/>
+		<label for="postnr"> Postnr:</label><br/><input type="text" name="postnr" required="required" id="postnr"><br/>
 		<label for="ort"> Ort:</label><br/><input type="text" name="ort" required="required" id="ort"><br/>
-	 <form action="orderbek.html">	
+		
 		<input type="submit" name="Beställ" value="Beställ"/>
      </form>
 		 

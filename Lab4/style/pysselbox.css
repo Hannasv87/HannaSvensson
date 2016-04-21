@@ -14,10 +14,13 @@ li{
 ul{
 	text-align:center;
 }
-#sök
+.sok
 {
-	float:right;
-
+	float:center;
+	
+}
+input[type="submit"]{margin-top:10px;
+float:center;
 }
 
 #korg
@@ -77,10 +80,10 @@ a
 
 
 
-#one
+.one
 { 
 float:right;
-margin-top:10px;
+margin-top:5px;
 }
 
 #ten{

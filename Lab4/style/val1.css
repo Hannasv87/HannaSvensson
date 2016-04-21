@@ -27,7 +27,7 @@ aside
 	border:2px solid #99ffdd;
 	float:right;
 	padding:90px;
-	margin-top:-350px;
+	margin-top:-360px;
 	margin-right:200px;
 
 }
@@ -35,12 +35,20 @@ aside
 	float:right;
 	margin-top:50px;
 }
-#sök{
-	float:right;
-	margin-top:10px;
-	
-}
+.sok
+{
+   float:center;
 
+}
+input[type="submit"]{
+	margin-top:10px;
+	float:center;
+}
+.nummer
+{
+	float:left;
+	margin-left:px;
+}
 
 #knapp33{
 	margin-left:20px;
@@ -54,10 +62,11 @@ aside
 }
 #ram{
 	border:2px solid #99ffdd;
-width:300px;
-margin-left:120px;
-margin-bottom:70px;
-padding:50px;
+	width:300px;
+	margin-left:120px;
+	margin-bottom:50px;
+	padding:50px;
+	text-align:left;
 }
 
 #one{
@@ -67,11 +76,7 @@ padding:50px;
 	margin-bottom:0px;
 }
 
-footer{
-	background-color:#bfbfbf;
-	width:100%;
-	height:100px;
-}
+
 /*formulär*/
 fieldset
 {
@@ -86,4 +91,9 @@ article
 {
 	text-align:center;
 	
+}
+footer{
+	background-color:#bfbfbf;
+	width:100%;
+	height:100px;
 }
